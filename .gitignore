@@ -1,0 +1,12 @@
+.env
+.agents/
+skills-lock.json
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.py[cod]
+storage/
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/next-env.d.ts
+frontend/tsconfig.tsbuildinfo
